@@ -1,15 +1,9 @@
 namespace KauflandMarketplaceV2SdkTests;
 
-public class Tests
+public class ProductServiceTests
 {
     [SetUp]
     public void Setup()
     {
-    }
-
-    [Test]
-    public void Test1()
-    {
-        Assert.Pass();
     }
 }

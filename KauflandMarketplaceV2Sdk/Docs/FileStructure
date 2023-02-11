@@ -1,0 +1,11 @@
+# Folders and Files
+## Interfaces
+Service Interfaces
+## Models
+Kaufland Seller API specific data models.
+### Responses
+Response Objects received from the Kaufland Seller API.
+### Shared
+Models shared within the models namespace.
+## Services
+Service Implementations based on the endpoint structure.
